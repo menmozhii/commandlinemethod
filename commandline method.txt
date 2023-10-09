@@ -3,3 +3,4 @@ git  remote
 git add.
 git commit
 git push
+git remote remove origin (if file already exist)
